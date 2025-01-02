@@ -6,34 +6,17 @@ export function NftMarketplace() {
   const nfts = [
     {
       id: "AE140",
-      image: "/img/nft1.jpg?height=400&width=400",
+      image: "/img/nfttrumpius1.jpeg?height=400&width=400",
       owner: "Dmitri Romano",
       currentBid: "5 SOL"
     },
     {
       id: "AE145",
-      image: "/img/nft2.jpg?height=400&width=400",
+      image: "/img/nfttrumpius2.jpeg?height=400&width=400",
       owner: "Dmitry Ivanovky",
       currentBid: "6 SOL"
     },
-    {
-      id: "AE157",
-      image: "/img/nft3.jpg?height=400&width=400",
-      owner: "Dmitri Petrovsky",
-      currentBid: "8 SOL"
-    },
-    {
-      id: "AE172",
-      image: "/img/nft4.jpg?height=400&width=400",
-      owner: "Mikael Lasol",
-      currentBid: "9 SOL"
-    },
-    {
-      id: "AE149",
-      image: "/img/nft5.jpg?height=400&width=400",
-      owner: "Elyas Frove",
-      currentBid: "3 SOL"
-    },
+    
     
   ]
 
@@ -50,7 +33,7 @@ export function NftMarketplace() {
                 <div className="relative">
                   <img
                     src={nft.image}
-                    alt={`Santa NFT ${nft.id}`}
+                    alt={`Trumpius NFT ${nft.id}`}
                     className="w-full aspect-square object-cover"
                   />
                   <button className="absolute top-4 right-4 p-2 rounded-full bg-black/40 hover:bg-black/60">

@@ -9,11 +9,11 @@ export function Header() {
           <div className="flex items-center gap-12">
             <Link href="" className="flex items-center gap-2">
               <img
-                src="/img/santaclaus.png?height=40&width=40"
+                src="/img/trumpiuslogo1.jpg?height=40&width=40"
                 alt="SantaClaus Logo"
                 className="w-10 h-10 rounded-full"
               />
-              <span className="text-white text-xl font-bold">SantaClaus</span>
+              <span className="text-white text-xl font-bold">TRUMPIUS</span>
             </Link>
             <nav className="hidden md:flex items-center gap-8">
               <Link href="" className="text-white hover:text-red-400">

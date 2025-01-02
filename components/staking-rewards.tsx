@@ -12,13 +12,13 @@ export function StakingRewards() {
               rgba(13,13,13,0.8), 
               rgba(13,13,13,0.95)
             ),
-            url('/img/bgbgbg.jpg?height=800&width=1600')
+            url('/img/trumpius banner.jpg?height=800&width=1600')
           `
         }}
       />
       <div className="max-w-2xl mx-auto px-4 relative z-10">
         <h2 className="text-4xl font-bold text-white text-center mb-12">
-          Santa Staking Rewards
+          Trumpius Staking Rewards
         </h2>
         
         <div className="bg-[#1A1A1A]/60 backdrop-blur rounded-lg p-4 mb-6">
@@ -30,11 +30,11 @@ export function StakingRewards() {
                 className="w-6 h-6"
               />
               <img
-                src="/img/santaclaus.png?height=24&width=24"
-                alt="Santa"
+                src="/img/trumpiuslogo1.jpg?height=24&width=24"
+                alt="Trumpius"
                 className="w-6 h-6"
               />
-              <span className="text-white">USDT-Santa</span>
+              <span className="text-white">USDT-Trumpius</span>
             </div>
             <div className="text-white">
               High APR <span className="text-green-500">65%</span>
@@ -45,13 +45,13 @@ export function StakingRewards() {
         <div className="space-y-4 mb-8">
           <div className="flex items-center gap-2 bg-[#1A1A1A]/60 backdrop-blur rounded-lg p-4">
             <img
-              src="/img/santaclaus.png?height=24&width=24"
-              alt="Santa Token"
+              src="/img/trumpiuslogo1.jpg?height=24&width=24"
+              alt="Trumpius Token"
               className="w-6 h-6"
             />
             <Input
               type="number"
-              placeholder="Santa Token's"
+              placeholder="Trumpius Token's"
               className="bg-transparent border-0 text-white placeholder:text-gray-500 focus-visible:ring-0"
             />
           </div>
