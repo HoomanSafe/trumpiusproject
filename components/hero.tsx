@@ -20,7 +20,7 @@ I am here to Make Memes Great Again and spark a new bull run!
 
             </p>
             <div className="flex gap-4 pt-4">
-            <Link href="">
+            <Link href="https://t.me/TrumpiusMaximuss">
   <Button 
     size="lg"
     className="bg-gradient-to-r from-red-500 via-green-500 to-black hover:from-red-600 hover:via-green-600 hover:to-gray-200 text-white border border-red-500/20 px-8 flex items-center"
@@ -33,7 +33,7 @@ I am here to Make Memes Great Again and spark a new bull run!
     Buy Now
   </Button>
 </Link>
-<Link href="https://t.me/TrumpiusMaximuss">
+
               <Button 
                 variant="outline" 
                 size="lg"
@@ -41,7 +41,6 @@ I am here to Make Memes Great Again and spark a new bull run!
               >
                 Explore Trumpius
               </Button>
-              </Link>
             </div>
           </div>
           <div className="flex-1">
